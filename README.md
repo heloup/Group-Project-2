@@ -1,19 +1,17 @@
 # Team 12 MIST 4610 Group Project 2
-# Team Name
+# Team Name:
 150061 Team 12
-# Team Members
+# Team Members:
 1. Pierce Helou [@heloup](https://github.com/heloup)
 2. Thomas Rogers [@thomas3rogers](https://github.com/thomas3rogers)
 3.  Morgan Emmons [@morganemmons](https://github.com/morganemmons)
-# Dataset Description
+# Dataset Description:
 
-# Questions 
+# Question 1:
 
-# Manipulations 
+# Question 2:
 
-# Analysis
+# Manupulations applied to the data set for analysis:
 
-# Results
-
-# Tableau Packaged Workbook 
+# Tableau Packaged Workbook:
 
