@@ -48,6 +48,8 @@ We aim to investigate the trend of NYPD shooting incidents over the past 17 year
 
 **From the graph above we can conclude that the majority of these occurrences are happening in Brooklyn**
 
+Conclusion: After analyzing the data we were able to determine that multi-dwelling residences was the most common location for shootings along with the Burrough of Brooklyn being the most likely area for a shooting to occur. This data set could be helpful for those concerned with safety as they could be alerted to not look at Multi dwellings in certain areas of NewYork such as Brooklyn and The Bronx( second most dangerous) as both of these sights have been consistently home to greater violence then their other neighboring burroughs. This data also confirms that the incidens are not just a irregular occurence as both sets remain consistent throughout the time period of the data with no burrough trading places in rankings except for Queens and Manhattan for one year.
+
 # Manupulations applied to the data set for analysis:
 We standardized the dataset by changing raw data into a more suitable format for our use. The data is quantifiable and does not include any duplications, irrelevant entries, redundancies, or inaccuracies. We spent time refining the data to ensure there was no use of incomplete, irrelevant, or inaccurate records. 
 
