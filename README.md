@@ -37,6 +37,7 @@ Importance:
 We aim to investigate the trend of NYPD shooting incidents over the past 17 years to discern whether there is a notable increase. In light of the prevalent discussions on gun-related offenses, our analysis seeks to uncover patterns in the frequency of shooting incidents over time. Additionally, we intend to identify the borough that has experienced the highest level of activity in these incidents. With this analysis we hope to better understand the dynamics surrounding shooting incidents in New York City.
 
 # Manupulations applied to the data set for analysis:
+We standardized the dataset by changing raw data into a more suitable format for our use. The data is quantifiable and does not include any duplications, irrelevant entries, redundancies, or inaccuracies. We spent time refining the data to ensure there was no use of incomplete, irrelevant, or inaccurate records. 
 
 # Tableau Packaged Workbook:
 
