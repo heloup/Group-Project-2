@@ -22,6 +22,8 @@ This question was interesting to us as a group as It allowed us to analyze the d
 ![Hispanic Dem not skewed](https://github.com/heloup/Group-Project-2/assets/148258161/61502dc8-2c7e-4dfb-9389-f5d673141dac)
 
 ![Indian Dem not skewed](https://github.com/heloup/Group-Project-2/assets/148258161/ebfbc245-775d-44ff-8223-7e20b02bf31a)
+![Project 2 Image 4](https://github.com/heloup/Group-Project-2/assets/148258161/4f2727e6-d967-49ce-901d-b7cd573db2cb)
+
 
 ![Asian Dem not skewed](https://github.com/heloup/Group-Project-2/assets/148258161/f4b2620a-516e-40f1-95b7-dafbdd0de78f)
 
