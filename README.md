@@ -32,5 +32,5 @@ We aim to investigate the trend of NYPD shooting incidents over the past 17 year
 We standardized the dataset by changing raw data into a more suitable format for our use. The data is quantifiable and does not include any duplications, irrelevant entries, redundancies, or inaccuracies. We spent time refining the data to ensure there was no use of incomplete, irrelevant, or inaccurate records. 
 
 # Tableau Packaged Workbook:
-The packaged workbook containing the visualizations shown above is attached to this repository.
+The packaged workbook containing the visualizations shown above is attached to this repository [here](https://prod-useast-b.online.tableau.com/#/site/httpswwwmist4610group12com/workbooks/1085949/views)
 
