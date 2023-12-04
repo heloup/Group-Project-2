@@ -21,15 +21,6 @@ This question was interesting to us as a group as It allowed us to analyze the d
 
 ![Hispanic Dem not skewed](https://github.com/heloup/Group-Project-2/assets/148258161/61502dc8-2c7e-4dfb-9389-f5d673141dac)
 
-![Indian Dem not skewed](https://github.com/heloup/Group-Project-2/assets/148258161/ebfbc245-775d-44ff-8223-7e20b02bf31a)
-![Project 2 Image 4](https://github.com/heloup/Group-Project-2/assets/148258161/60e63879-229f-4452-8c92-4be806385de2)
-
-
-
-![Asian Dem not skewed](https://github.com/heloup/Group-Project-2/assets/148258161/f4b2620a-516e-40f1-95b7-dafbdd0de78f)
-
-![Unknown dem ](https://github.com/heloup/Group-Project-2/assets/148258161/b3a32c77-74f4-4943-81d2-5105fa35fb9b)
-![Unkwon Skewed](https://github.com/heloup/Group-Project-2/assets/148258161/840e94c2-7880-49d6-a8be-5891cd722dee)
 
 # Question 2:
 Our next inquiry focuses on determining which borough has witnessed the highest number of NYPD shooting incidents over the past 17 years.
