@@ -27,7 +27,9 @@ This question was interesting to us as a group as It allowed us to analyze the d
 
 
 **Conclusion:** 
-The data from these graphs provides insights into who is involved, when incidents happen, and where they occur in NYPD shooting cases. We observe a higher involvement of men, and it raises questions about the factors behind this gender difference. The incidents are notably concentrated in age groups 25-44 and 18-24, emphasizing the need for focused efforts and community outreach for these age demographics. Additionally, there is a significant concentration of incidents within the African American demographic, prompting consideration of factors that may contribute to disparities in policing outcomes. Furthermore, the data highlights a concerning trend involving minors, with approximately 2000 incidents over the years, emphasizing the importance of prioritizing the safety and well-being of the city's youth. 
+When diving into this problem we decided to depict 3 bar graphs that contains one race, gender, and age groups. We decided to use separate groups so that all of our data would not look to cramed together on one graph since there would be to many colums and not give the best representation of our data. The data from these graphs provides insights into who is involved, when incidents happen, and where they occur in NYPD shooting cases. We observe a higher involvement of men, and it raises questions about the factors behind this gender difference. The incidents are notably concentrated in age groups 25-44 and 18-24, emphasizing the need for focused efforts and community outreach for these age demographics. Additionally, there is a significant concentration of incidents within the African American demographic, prompting consideration of factors that may contribute to disparities in policing outcomes. Furthermore, the data highlights a concerning trend involving minors, with approximately 2000 incidents over the years, emphasizing the importance of prioritizing the safety and well-being of the city's youth. 
+
+
 
 
 
