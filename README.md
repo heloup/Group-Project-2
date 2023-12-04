@@ -14,6 +14,20 @@ When comparing NYPD shooting incidents across different racial groups, our prima
 Importance:
 This question was interesting to us as a group as It allowed us to analyze the data of victims in multiple ways. The first way you could analyze the data is which race/ethnic group is most likely to be a victim of a shooting in New York City. This question allows us to see if their is an underlying prejudice found in shootings or if the shooting are more so at random. The Second way it allowed us to analyze data is by age group. Organizing by age group allows the graphs to show which age group is most at risk per each people group this could be useful in answering questions. The third way it allowed us to analyze is it showed us if Male or Female shootings are more common for each people group. This could be very useful in studying Questions such as " Are young adult males( late teens and early 20s) more likely to be at risk for being shot because of gang activity or are shooting deaths uniform throughout gender and age group?"
 
+
+![Black Demographic not skewed](https://github.com/heloup/Group-Project-2/assets/148258161/d92ba8c2-58f3-4f7f-9661-d9dd4fbd4426)
+
+![White Dem not skewed](https://github.com/heloup/Group-Project-2/assets/148258161/15e0468e-8bcb-4db2-9a2e-8afe52b52077)
+
+![Hispanic Dem not skewed](https://github.com/heloup/Group-Project-2/assets/148258161/61502dc8-2c7e-4dfb-9389-f5d673141dac)
+
+![Indian Dem not skewed](https://github.com/heloup/Group-Project-2/assets/148258161/ebfbc245-775d-44ff-8223-7e20b02bf31a)
+
+![Asian Dem not skewed](https://github.com/heloup/Group-Project-2/assets/148258161/f4b2620a-516e-40f1-95b7-dafbdd0de78f)
+
+![Unknown dem ](https://github.com/heloup/Group-Project-2/assets/148258161/b3a32c77-74f4-4943-81d2-5105fa35fb9b)
+![Unkwon Skewed](https://github.com/heloup/Group-Project-2/assets/148258161/840e94c2-7880-49d6-a8be-5891cd722dee)
+
 # Question 2:
 Our next inquiry focuses on determining which borough has witnessed the highest number of NYPD shooting incidents over the past 17 years.
 
