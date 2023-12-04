@@ -8,8 +8,10 @@
 # Dataset Description:
 
 # Question 1:
+When comparing NYPD shooting incidents across different racial groups, our primary question is: Among three specific racial groups, which one is associated with the highest number of incidents? Further, within each racial group, we aim to identify the age group most commonly involved in these incidents and if these incidents are most common amongst males or females.
 
 # Question 2:
+Our next inquiry focuses on determining which borough has witnessed the highest number of NYPD shooting incidents over the past 17 years.
 
 # Manupulations applied to the data set for analysis:
 
