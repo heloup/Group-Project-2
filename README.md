@@ -16,10 +16,19 @@ This question was interesting to us as a group as It allowed us to analyze the d
 
 
 ![Black Demographic not skewed](https://github.com/heloup/Group-Project-2/assets/148258161/d92ba8c2-58f3-4f7f-9661-d9dd4fbd4426)
+**From the graph depicted above we can conclude that Black males aged 25-44 and 18-24 are most likely to be in a shooting related incident.**
+
 
 ![White Dem not skewed](https://github.com/heloup/Group-Project-2/assets/148258161/15e0468e-8bcb-4db2-9a2e-8afe52b52077)
+**From the graph above we can conclude that White Males age 25-44 are most likely to be in an **incident.****
 
 ![Hispanic Dem not skewed](https://github.com/heloup/Group-Project-2/assets/148258161/61502dc8-2c7e-4dfb-9389-f5d673141dac)
+**From the graph above we can conclude that Hispanic males from the age groups of 25-44 and 18-24 are in the most incidents.**
+
+
+**Conclusion:** 
+The data presented in the three graphs offers a nuanced glimpse into the demographic patterns and temporal trends associated with NYPD shooting incidents. The observed higher likelihood of men being involved in such incidents raises questions about the underlying factors contributing to this gender disparity. Additionally, the concentration of incidents within the age groups of 25-44 and 18-24 underscores the need for targeted interventions and community outreach programs catering to these specific demographics. The data reveals a notable concentration of incidents within the African American demographic, prompting consideration of factors that may contribute to disparities in policing outcomes. Furthermore, the concerning trend involving minors, with around 2000 incidents occurring over the years, calls for urgent attention to address the safety and well-being of the city's youth. These findings collectively underscore the multifaceted nature of the challenges surrounding shooting incidents, urging policymakers, law enforcement, and community leaders to collaboratively devise comprehensive strategies that address the complex intersections of gender, age, race, and youth involvement in order to foster a safer environment for all residents.
+
 
 
 # Question 2:
