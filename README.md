@@ -41,9 +41,11 @@ We aim to investigate the trend of NYPD shooting incidents over the past 17 year
 
 
 (<img width="1228" alt="Screenshot 2023-12-04 at 1 34 53 PM" src="https://github.com/heloup/Group-Project-2/assets/148908686/2525b1cb-0b26-4498-b28b-649c290c5593">)
+
 **From the graph above we can conclude that a majority of the incidents occur in Multiperson public housing and apartment buildings.**
 
 (<img width="1399" alt="Screenshot 2023-12-04 at 1 44 21 PM" src="https://github.com/heloup/Group-Project-2/assets/148908686/1332f72b-72e8-429d-87af-138c56a9f9ea">)
+
 **From the graph above we can conclude that the majority of these occurrences are happening in Brooklyn**
 
 # Manupulations applied to the data set for analysis:
